@@ -1,4 +1,4 @@
-# PostHog MCP
+# PostHog MCP but changed to EU server (hardcoded)
 
 ## Use the MCP Server
 
